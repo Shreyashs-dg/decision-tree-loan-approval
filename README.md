@@ -40,11 +40,11 @@ Predicting whether a loan application will be **Approved** or **Rejected** using
 
 **Target Distribution**
 
-![Target Distribution](images/target_distribution.png)
+![Target Distribution](../images/target_distribution.png)
 
 **Correlation Heatmap**
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](../images/correlation_heatmap.png)
 
 | Metric | Baseline | Tuned | Change |
 |---|---|---|---|
@@ -57,19 +57,19 @@ Predicting whether a loan application will be **Approved** or **Rejected** using
 
 **ROC Curve (Baseline)**
 
-![ROC Curve](images/roc_curve_baseline.png)
+![ROC Curve](images/../roc_curve_baseline.png)
 
 **Confusion Matrix (Tuned Model)**
 
-![Confusion Matrix](images/confusion_matrix_tuned.png)
+![Confusion Matrix](../images/confusion_matrix_tuned.png)
 
 **Feature Importance (Tuned Model)**
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](../images/feature_importance.png)
 
 **Baseline vs. Tuned — Key Metrics**
 
-![Baseline vs Tuned](images/baseline_vs_tuned_metrics.png)
+![Baseline vs Tuned](../images/baseline_vs_tuned_metrics.png)
 
 ## Key Insights
 
