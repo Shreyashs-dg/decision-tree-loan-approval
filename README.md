@@ -42,10 +42,6 @@ Predicting whether a loan application will be **Approved** or **Rejected** using
 
 ![Target Distribution](images/target_distribution.png)
 
-**Correlation Heatmap**
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
 | Metric | Baseline | Tuned | Change |
 |---|---|---|---|
 | Test Accuracy | 98.13% | 98.24% | +0.11 pp |
