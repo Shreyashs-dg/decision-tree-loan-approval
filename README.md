@@ -65,7 +65,7 @@ Predicting whether a loan application will be **Approved** or **Rejected** using
 
 **Baseline vs. Tuned — Key Metrics**
 
-![Baseline vs Tuned](images/baseline_vs_tuned_metrics.png)
+![Baseline vs Tuned](images/Baseline_VS_Tuned_metrics.png.png)
 
 ## Key Insights
 
