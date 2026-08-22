@@ -65,8 +65,7 @@ Predicting whether a loan application will be **Approved** or **Rejected** using
 
 **Baseline vs. Tuned — Key Metrics**
 
-![Baseline vs Tuned](images/baseline_vs_tuned_metrics.png)
-
+![Baseline vs Tuned](images/Baseline_VS_Tuned_metrics.png)
 ## Key Insights
 
 - **`cibil_score` alone explains ~77% of the model's decisions**, with `loan_term` a distant second (~13%) — loan approval in this dataset is overwhelmingly a function of credit score, not income, assets, or demographics.
